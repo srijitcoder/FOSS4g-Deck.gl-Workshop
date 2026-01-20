@@ -32,7 +32,7 @@ deck.gl maps **DATA** (typically in the form of arrays of JSON objects or binary
 ### Clone the workshop repository
 
 ```
-git clone https://github.com/srijitcoder/FOSS4g-Euro-2024-Deck.gl-Workshop.git
+git clone https://github.com/srijitcoder/FOSS4g-Deck.gl-Workshop.git
 ```
 
 ### Install packages

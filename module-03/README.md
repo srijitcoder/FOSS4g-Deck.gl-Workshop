@@ -37,8 +37,6 @@ const layer = new ScatterplotLayer({
 >
 ```
 
-\
-
 ## Result
 
 Your page should look something like this:
